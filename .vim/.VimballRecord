@@ -1,0 +1,1 @@
+tagbar.vmb: call delete('/home/lidong/.vim/autoload/tagbar.vim')|call delete('/home/lidong/.vim/doc/tagbar.txt')|call delete('/home/lidong/.vim/plugin/tagbar.vim')|call delete('/home/lidong/.vim/syntax/tagbar.vim')

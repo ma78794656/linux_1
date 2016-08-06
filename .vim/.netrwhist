@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/usr/local/nagios/etc'
+let g:netrw_dirhist_2='/usr/local/nagios/etc/objects'
+let g:netrw_dirhist_3='/opt/yanxiu/yanxiu-ucenter'
+let g:netrw_dirhist_4='/opt/yanxiu/yanxiu-ucenter/ucenter-client'
+let g:netrw_dirhist_5='/opt/yanxiu/yanxiu-ucenter/ucenter-passport'
+let g:netrw_dirhist_6='/opt/yanxiu/yanxiu-user/build'
